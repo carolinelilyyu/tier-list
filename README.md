@@ -33,14 +33,14 @@ npm run build
 
 2) Get bot token from Developers Dashboard > App > Bot > Reset Token (https://discord.com/developers/applications/1122252160151867412/bot)
 
-3) Run the script **/Users/carolineyu/Personal/tier-list/src/js/discord_client.js** in your terminal to download pictures of all your server members
+3) Run the script **~./src/js/discord_client.js** in your terminal to download pictures of all your server members
 
-2) Go to **/Users/carolineyu/Personal/tier-list/src/components/Discord.vue** and manually import all pictures
+2) Go to **./src/components/Discord.vue** and manually import all pictures
 
 ### How to Add Any Member into Tier-List
-1) Go to **/Users/carolineyu/Personal/tier-list/src/img** and drop their picture in there
+1) Go to **./src/img** and drop their picture in there
 
-2) Go to **/Users/carolineyu/Personal/tier-list/src/components/Discord.vue** and manually import all pictures
+2) Go to **./src/components/Discord.vue** and manually import all pictures
 
 ### Where Do I See a Demo?
 https://drive.google.com/file/d/1y94I7s_geVbMlYbADGMokMgx0n8XTSUZ/view?usp=drive_link
